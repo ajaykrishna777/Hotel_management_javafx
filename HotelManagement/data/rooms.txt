@@ -1,0 +1,11 @@
+101|STANDARD|1500.0|AVAILABLE|Cozy standard room with garden view|1|2
+102|STANDARD|1500.0|BOOKED|Standard room near elevator|1|2
+103|STANDARD|1600.0|AVAILABLE|Standard room with extra sofa|1|3
+201|DELUXE|2800.0|AVAILABLE|Deluxe room with city view|2|2
+202|DELUXE|3000.0|BOOKED|Deluxe room with balcony|2|3
+203|DELUXE|2900.0|MAINTENANCE|Renovating — back in service soon|2|2
+301|SUITE|5500.0|AVAILABLE|Executive suite with lounge|3|4
+302|SUITE|6000.0|AVAILABLE|Presidential suite with jacuzzi|3|4
+401|STANDARD|1700.0|AVAILABLE|Top-floor standard with panorama|4|2
+402|DELUXE|3200.0|AVAILABLE|Corner deluxe with dual views|4|3
+305|SUITE|5000.0|AVAILABLE|Luxury Residence|3|4

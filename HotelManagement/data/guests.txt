@@ -1,0 +1,6 @@
+G-100|Arjun Sharma|9876543210|arjun.sharma@email.com
+G-101|Priya Nair|9123456789|priya.nair@email.com
+G-102|Rohit Mehra|9988776655|
+G-103|Sunita Patel|9001122334|sunita.patel@email.com
+G-104|Kiran Rao|9777888999|kiran.rao@email.com
+G-105|S|876543234567|cscusd
